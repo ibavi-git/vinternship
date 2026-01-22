@@ -50,7 +50,7 @@ The program will be conducted strictly in **online mode**.
 Attendance is compulsory for all the standups, please check your Cohort page on the landing page for days and timing of standup for your cohort. Attendance is tracked for all the live session activities. Attendance will be counted **only if your camera remains ON for the entire Zoom session**. If the camera is not switched on for a sustained duration, the session may **not be considered as full attendance**.
 
 **2.3 Do I need to use a specific name or email for the internship?**  
-Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Cliq, etc.) for automated tracking of your progress.
+Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Cliq, Zoom etc.) for automated tracking of your progress.
 
 **2.4 Should I fill the attendance form attached to the NPTEL offer letter?**  
 Yes. You must fill the **Google Form provided in the NPTEL offer letter** **every day** during your internship (**except Sundays**).
@@ -79,6 +79,8 @@ However, if you must take the leave, follow the steps below:
   - The **exact date** on which you intend to take the leave
 
 Once submitted, the request will be reviewed and processed by the team.
+
+NOTE: No Holidays are provided!
 
 ---
 
